@@ -1,0 +1,8 @@
+# Compiled class files
+*.class
+
+# Package Files
+*.jar
+
+# IDE specific
+.vscode/
